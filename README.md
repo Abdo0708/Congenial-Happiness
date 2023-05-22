@@ -47,8 +47,7 @@ The `config.ini` file contains various configurable options:
 
 The Advanced Keylogger project is for educational purposes only. It is essential to respect and adhere to legal and ethical standards when using this software. The authors are not responsible for any misuse or damage caused by the use of this keylogger. Be sure to comply with all applicable laws and regulations.
 
-// ## License
-//This project is licensed under the [MIT License](LICENSE).
+[//]: <> (License : This project is licensed under the [MIT License](LICENSE).)
 
 ## Acknowledgments
 
